@@ -35,6 +35,8 @@ To analyze DNA methylation patterns in aging, we performed UMAP, Lollipop, and Î
 
 
 
+<img width="598" height="426" alt="1" src="https://github.com/user-attachments/assets/50375c67-481b-4785-9bc8-0bce130c4fc2" />
+
 
 
 
@@ -72,6 +74,7 @@ To analyze DNA methylation patterns in aging, we performed UMAP, Lollipop, and Î
 - Distribution: Roughly bell-shaped, centered near 0, with most CpGs showing only small changes between old and young groups.
 
 
+<img width="854" height="553" alt="2" src="https://github.com/user-attachments/assets/470cc497-ccd4-427d-98f4-00835ec80326" />
 
 
 
@@ -107,6 +110,7 @@ To analyze DNA methylation patterns in aging, we performed UMAP, Lollipop, and Î
 - Lollipop stems: Each stem represents the magnitude of methylation difference for that CpG site.
 
 
+<img width="1135" height="563" alt="3" src="https://github.com/user-attachments/assets/c0abf80a-a6e0-4e5d-bbaf-44a6f6a3ae86" />
 
 
 
