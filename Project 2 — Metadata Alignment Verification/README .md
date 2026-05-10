@@ -91,4 +91,4 @@ Python · Pandas · warnings · Pytest · Biolearn · Git / GitHub
 
 ---
 
-*For full implementation details, the complete function code, integration walkthrough, and all test cases, see [`REPORT.md`]([Project 2 — Metadata Alignment Verification/report/REPORT.md](https://github.com/sanzidaanee/biolearn-project/blob/main/Project%202%20%E2%80%94%20Metadata%20Alignment%20Verification/report/REPORT.md))
+*For full implementation details, the complete function code, integration walkthrough, and all test cases, see REPORT.md(https://github.com/sanzidaanee/biolearn-project/blob/main/Project%202%20%E2%80%94%20Metadata%20Alignment%20Verification/report/REPORT.md)
